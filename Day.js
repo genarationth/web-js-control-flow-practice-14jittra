@@ -22,6 +22,6 @@ switch(dayNumber) {
         console.log('Saturday');
         break;
     default:
-        console.log('Invalid day numbe');
+        console.log('Invalid day number');
         break;
 }
