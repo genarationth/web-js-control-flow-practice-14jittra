@@ -25,3 +25,15 @@ switch(dayNumber) {
         console.log('Invalid day number');
         break;
 }
+
+// const password = '12345678';
+
+// password = password.length >= 12 ? console.log('password is very strong so Welcome!!'):
+// console.log('SORRY!! the password is too short');
+
+// password = password.length >= 8 ? console.log('Welcome!!'):
+// console.log('SORRY!! the password is too short');
+
+// password = password.length >= 12 ? console.log('password is very strong so Welcome!!'):
+// password = password.length >= 8 ? console.log('Welcome!!'):
+// console.log('SORRY!! the password is too short');
